@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">See Food</string>
+    <string name="app_subtitle">The Shazam for Food</string>
+    <string name="background">Background</string>
+    <string name="what_food_is_this">What Food Is This?</string>
+    <string name="icon_camera">icon_camera</string>
+    <string name="real_time_scanner">Real-time Scanner</string>
+    <string name="share">Share</string>
+    <string name="capture">Capture</string>
+    <string name="it_s_most_likely_to_be">It\'s most likely to be</string>
+    <string name="result">Result</string>
+    <string name="label_01">Label 01</string>
+    <string name="label_02">Label 02</string>
+    <string name="label_03">Label 03</string>
+    <string name="hot_dog">Hot Dog</string>
+    <string name="dog">Dog</string>
+    <string name="not_hot_dog">Not Hot Dog</string>
+    <string name="_0_0">0.0%</string>
+</resources>
